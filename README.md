@@ -2,7 +2,7 @@
 SAIAS.org multi-feature AI dataset source code repository 
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/fce07359-8429-4bdf-9ea1-00f375d2d442" alt="Astrida AI">
+    <img src="https://github.com/user-attachments/assets/6b512ca2-d438-478e-b9b7-6ab62decc834" alt="SAIAS AI">
     <br>
     <a href="https://SAIAS.org/"><b>🌐 Web</b></a> | 
     <a href="https://x.com/SAIASorg"><b>🐦 Twitter</b></a>
