@@ -16,7 +16,7 @@ SAIAS AI is an advanced Artificial Intelligence (AI) framework built using JavaS
 
 Through this project, you will explore key concepts like neural networks, deep learning, reinforcement learning, and advanced optimization algorithms, all of which contribute to the development of a more autonomous and capable AI system.
 
-SAIAS AI is still in its early stages, but it is structured to be easily extendable and scalable for future improvements. The current implementation demonstrates basic machine learning models and training loops, focusing on potential applications such as robotics, self-learning systems, and real-time feedback processing.
+SAIAS AI is still in its early stages, but it is structured to be easily extendable and scalable for future improvements. The current implementation demonstrates basic machine learning models and training loops, focusing on potential applications such as robotics, self-learning systems, real-time feedback processing and more.
 
 ---
 
@@ -62,3 +62,5 @@ SAIAS AI is still in its early stages, but it is structured to be easily extenda
 ```bash
 git clone https://github.com/your-repo-name/SAIASorg
 cd SAIASorg
+
+# SAIAS.org
